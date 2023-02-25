@@ -1,14 +1,14 @@
 # connect-four-game
-connect four game in terminal
+connect four game in terminal.
 
 
-# Foobar
+#@ Requirements for this
 
 Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+You can run this file on your terminal using IDE or other application.
 
 ```bash
 pip install foobar
